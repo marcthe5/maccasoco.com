@@ -1,4 +1,9 @@
 /* Casoco, Marc T.  - All Right Reserved*/
+@font-face {
+  font-family: 'Road Rage';
+  src:  url('Road Rage.otf') format('otf'),
+        url('Road Rage.otf') format('otf');
+}
 
 html .body{
 	margin: 0 auto;
