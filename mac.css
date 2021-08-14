@@ -2781,7 +2781,7 @@ text-align: left;
 @media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
+  and (-webkit-min-device-pixel-ratio: 3) {
 
 html .body{
 	margin: 0 auto;
@@ -2828,7 +2828,7 @@ background-size: cover;
 	display: block;
 	opacity: 1;
 	margin: auto;
-	transform: translateY(59%);
+	transform: translateY(57%);
 	z-index: 20;
 
 }
