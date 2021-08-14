@@ -3348,7 +3348,7 @@ text-align: left;
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) {
 
-html,body .body{
+html .body{
 	margin: 0 auto;
    
 }
@@ -3385,7 +3385,7 @@ background-size: cover;
 
 
 }
-.img_head1 {
+.img_head1,img {
 	position: relative;
 	background-size: auto;
 	max-width: 85%;
@@ -3441,10 +3441,10 @@ transform: translateY(-45%);
 	opacity: 0.6;
 
 }
-#button{
+div#button {
 	position: relative;
 	margin: auto;
-	transform:  translateY(-90vw);
+	transform:  translateY(-91vw);
 	display: block;
 background-color: rgb(178, 177, 185, 0.8);
 filter: drop-shadow(0.7px 3px 2px #171717);
