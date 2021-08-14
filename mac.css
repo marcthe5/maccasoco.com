@@ -2214,7 +2214,7 @@ margin-left: auto;
 @media only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
+  and (-webkit-min-device-pixel-ratio: 3) {
 
 html .body{
 	margin: 0 auto;
@@ -2788,9 +2788,9 @@ text-align: left;
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) {
 
-html .body{
+html,body .body{
 	margin: 0 auto;
-
+   
 }
 .body{
     background-color: #212121;
@@ -2825,7 +2825,7 @@ background-size: cover;
 
 
 }
-.img_head1 img{
+.img_head1 {
 	position: relative;
 	background-size: auto;
 	max-width: 85%;
@@ -2833,7 +2833,7 @@ background-size: cover;
 	display: block;
 	opacity: 1;
 	margin: auto;
-	transform: translateY(57%);
+	transform: translateY(6%);
 	z-index: 20;
 
 }
