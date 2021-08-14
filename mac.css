@@ -3348,6 +3348,7 @@ text-align: left;
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) {
+@import url('http://fonts.cdnfonts.com/css/road-rage');
 
 html .body{
 	margin: 0 auto;
