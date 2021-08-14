@@ -1,8 +1,8 @@
 /* Casoco, Marc T.  - All Right Reserved*/
 @font-face {
   font-family: 'Road Rage';
-  src:  url('Road Rage.otf') format('otf'),
-        url('Road Rage.otf') format('otf');
+  src:  url('RoadRage.otf') format('otf'),
+        url('RoadRage.otf') format('otf');
 }
 
 html .body{
@@ -3347,7 +3347,11 @@ text-align: left;
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) {
-
+@font-face {
+  font-family: 'Road Rage';
+  src:  url('RoadRage.otf') format('otf'),
+        url('RoadRage.otf') format('otf');
+}
 html .body{
 	margin: 0 auto;
    
