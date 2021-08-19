@@ -1,7 +1,7 @@
 /* Casoco, Marc T.  - All Right Reserved*/
 @font-face {
-    font-family: "Road Rage";
-    src:url('http://fonts.cdnfonts.com/css/road-rage');
+    font-family: Road Rage;
+    src: url("C:/Windows/Fonts/RoadRage.otf") format("opentype");
 }
 html .body{
 	margin: 0 auto;
