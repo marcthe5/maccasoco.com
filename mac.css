@@ -1,6 +1,6 @@
 /* Casoco, Marc T.  - All Right Reserved*/
 @font-face {
-    font-family: Road Rage;
+    font-family: 'Road Rage';
     src: url('http://fonts.cdnfonts.com/css/road-rage');
 }
 html .body{
@@ -96,7 +96,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 60px;
 font-weight: bolder;
 text-transform: uppercase;
@@ -164,7 +164,7 @@ cursor: pointer;
 
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -184,7 +184,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 10vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -652,7 +652,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 10vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -743,7 +743,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -763,7 +763,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -1222,7 +1222,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 10vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -1313,7 +1313,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -1333,7 +1333,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -1804,7 +1804,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 9.7vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -1895,7 +1895,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -1915,7 +1915,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -2374,7 +2374,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 9.7vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -2467,7 +2467,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -2487,7 +2487,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -2774,7 +2774,7 @@ margin-left: auto;
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 3) {
 @font-face {
-    font-family: 'Road Rage';
+    font-family: ''Road Rage'';
     src:url('http://fonts.cdnfonts.com/css/road-rage');
 }
 html .body{
@@ -2884,7 +2884,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 10vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -2976,7 +2976,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -2996,7 +2996,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -3350,7 +3350,7 @@ text-align: left;
   and (-webkit-min-device-pixel-ratio: 3) {
 @import url('http://fonts.cdnfonts.com/css/road-rage');
 @font-face {
-    font-family: Road Rage;
+    font-family: 'Road Rage';
     src: url('http://fonts.cdnfonts.com/css/road-rage');
 }
 html .body{
@@ -3460,7 +3460,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 10vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -3552,7 +3552,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -3572,7 +3572,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -4036,7 +4036,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 10vw;
 font-weight: bolder;
 text-transform: uppercase;
@@ -4127,7 +4127,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -4147,7 +4147,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -4600,7 +4600,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 60px;
 font-weight: bolder;
 text-transform: uppercase;
@@ -4691,7 +4691,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -4711,7 +4711,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
@@ -5163,7 +5163,7 @@ filter: drop-shadow(0.7px 3px 2px #171717);
 #button h3{
 color: #2B2B2B;
 text-align: center;
-font-family: Road Rage;
+font-family: 'Road Rage';
 font-size: 60px;
 font-weight: bolder;
 text-transform: uppercase;
@@ -5255,7 +5255,7 @@ cursor: pointer;
 }
 .header3{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	color: ivory;
 	font-size: 29px;
 
@@ -5275,7 +5275,7 @@ font-size: 30px;
 }
 #content2 h1{
 	text-align: center;
-	font-family: Road Rage;
+	font-family: 'Road Rage';
 	font-size: 16vw;
 	-webkit-text-stroke: 0.6px #222831;
 	text-shadow: #444444 5px 5px ;
